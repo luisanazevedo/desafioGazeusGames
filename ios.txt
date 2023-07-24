@@ -1,0 +1,6 @@
+[caps]
+platformName = "iOS"
+platformVersion = "15.4"
+deviceName = "iPhone XR"
+
+app = ""
